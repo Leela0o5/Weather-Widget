@@ -1,0 +1,10 @@
+.searchBox{
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.subBtn{
+   display: flex;
+   justify-content: center;
+   margin-top: 15px;
+}
